@@ -1,0 +1,10 @@
+//const BOX_ADDRESS="0x73ff7AF00db0a83E98C29EC8117Ec17063e4FA32";
+const BOX_ADDRESS={Box address};
+//const MYPROXYADMIN_ADDRESS="0xF236D14e9D47941424449e6bF3AcbD2C596719b3";
+const MYPROXYADMIN_ADDRESS={MyProxyAdmin address};
+const _data = "0x";
+module.exports = [
+    BOX_ADDRESS,
+    MYPROXYADMIN_ADDRESS,
+    _data
+ ];
